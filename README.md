@@ -1,24 +1,6 @@
+Jeremiah Anku Coblah
+Web and Mobile App Full Stack Developer | Enthusiast in Machine Learning and Data Science
 
+Hello! 👋 I'm Jeremiah, a dedicated full stack developer skilled in Python, JavaScript, SQL, and more. With expertise in web and mobile app development, I turn creative ideas into functional solutions. Proficient in languages like Python, JavaScript, and SQL, I specialize in frameworks like Node.js and Express, and technologies such as RESTful APIs and WebSockets. My frontend skills include React, React Native, and various CSS frameworks. I'm experienced in backend technologies like Flask and Django, and databases like PostgreSQL, SQLite, and MongoDB. I use Git and GitHub for version control and tools like Docker and Postman for development efficiency.
 
-Hello! 👋 I'm Jeremiah, a dedicated full stack developer proficient in Python, JavaScript, SQL, APIs, Node.js, Express, C++, and more. With expertise in both web and mobile app development, I transform creative concepts into functional solutions.
-
-Experience and Skills:
-Languages: Python, JavaScript, SQL, C++
-Frameworks: Node.js, Express
-Technologies: RESTful APIs
-Frontend: React, React Native, HTML, CSS, Bootstrap, Tailwind CSS
-Backend:  Django, Express.js
-Databases: PostgreSQL, SQLite, MongoDB
-Version Control: Git, GitHub
-Tools:  Postman
-
-Passion for Machine Learning and Data Science:
-Beyond coding, I'm deeply passionate about machine learning and data science. I love exploring innovative ways to extract meaningful insights from data, build predictive models, and implement ML algorithms.
-
-Contact:
-Email: jerrymardeburg@gmail.com
-LinkedIn: https://www.linkedin.com/in/jeremiah-coblah-anku-2b3732229/
-GitHub: https://github.com/Jerry-Khobby
-
-Let's Collaborate!
-I'm open to exciting projects, collaborations, and learning opportunities. Whether it's web, mobile, or data science, let's work together to bring your ideas to life. Looking forward to connecting with fellow tech enthusiasts and innovators! 🚀✨
+Beyond coding, I'm passionate about machine learning and data science, exploring innovative ways to extract insights and build predictive models. Let's collaborate on web, mobile, or data science projects. Reach out via email at jerrymardeburg@gmail.com or connect on LinkedIn. Check out my projects on GitHub. Excited to work with fellow tech enthusiasts and innovators! 🚀✨
