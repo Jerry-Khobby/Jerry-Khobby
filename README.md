@@ -44,6 +44,7 @@
 <img src="URL_FOR_EXPRESS_ICON" alt="Express.js" width="40" style="margin: 0 10px;" />
   <img src="https://pictogrammers.com/library/mdi/icon/material-ui/" alt="Material-UI" width="40" style="margin: 0 10px;" />
   <img src="https://pictogrammers.com/library/mdi/icon/react/" alt="React.js" width="40" style="margin: 0 10px;" />
+<img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" style="margin: 0 10px;" />
 </p>
 
 
