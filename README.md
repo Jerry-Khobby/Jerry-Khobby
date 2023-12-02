@@ -55,13 +55,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Khobby&layout=compact)
 
-*Note: Replace `YourGitHubUsername` with your actual GitHub username.*
 
-This section uses the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) tool to dynamically generate a visual representation of the languages you've used the most in your GitHub repositories.
-
-Make sure to include the GitHub Readme Stats in your project's README if you haven't already. You can follow the instructions on their GitHub repository for installation and customization.
-
-Feel free to customize the appearance of the language card by referring to the GitHub Readme Stats documentation for additional parameters: https://github.com/anuraghazra/github-readme-stats#customization
 
 
 
