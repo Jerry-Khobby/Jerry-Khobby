@@ -41,6 +41,9 @@
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/5e2c2dc1-3b74-407e-80be-e0ab95aa88a8" alt="Icon 8" width="40" style="margin: 0 10px;" />
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/30ec91d0-1d39-49e4-9bf3-2c9e6aea36e7" alt="Icon 9" width="40" style="margin: 0 10px;" />
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/f449b308-32ff-4fb5-9f04-82b7f8bf6d6f" alt="Icon 10" width="40" style="margin: 0 10px;" />
+<img src="URL_FOR_EXPRESS_ICON" alt="Express.js" width="40" style="margin: 0 10px;" />
+  <img src="https://pictogrammers.com/library/mdi/icon/material-ui/" alt="Material-UI" width="40" style="margin: 0 10px;" />
+  <img src="https://pictogrammers.com/library/mdi/icon/react/" alt="React.js" width="40" style="margin: 0 10px;" />
 </p>
 
 
