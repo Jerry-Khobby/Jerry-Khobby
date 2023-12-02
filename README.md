@@ -1,8 +1,8 @@
 
 <p align="center">
-  <b>Hi 👋, I'm Jeremiah Anku Coblah</b>
+  <h6>Hi 👋, I'm Jeremiah Anku Coblah</h6>
 </p>
 <p
   align="center"
-  >A passionate web and software developer</p>
+  ><b>A passionate web and software developer</b></p></p>
 
