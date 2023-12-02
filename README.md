@@ -12,7 +12,7 @@
 
 ## Connect with Me:
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/jeremiah-coblah-anku-2b3732229/">
     <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
