@@ -12,17 +12,21 @@
 
 ## Connect with Me:
 
-<p>
-  <a href="[https://linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/jeremiah-coblah-anku-2b3732229/)">
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeremiah-coblah-anku-2b3732229/">
     <img src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn" style="margin: 0 10px;" />
   </a>
-  <a href="[https://twitter.com/YourTwitterHandle](https://twitter.com/jerry92023784)">
+  <a href="https://twitter.com/jerry92023784">
     <img src="https://img.icons8.com/color/40/000000/twitter.png" alt="Twitter" style="margin: 0 10px;" />
   </a>
-  <a href="[https://facebook.com/YourFacebookUsername](https://www.facebook.com/jerry.mardeburg)">
+  <a href="https://www.facebook.com/jerry.mardeburg">
     <img src="https://img.icons8.com/fluent/40/000000/facebook-new.png" alt="Facebook" style="margin: 0 10px;" />
   </a>
+  <a href="https://discord.com/channels/@me">
+    <img src="https://img.icons8.com/color/40/000000/discord-logo.png" alt="Discord" style="margin: 0 10px;" />
+  </a>
 </p>
+
 
 
 ## Languages and Tools:
