@@ -1,2 +1,4 @@
 Jerry-Khobby/README.md
-Hi 👋,I'm Jeremiah Anku Coblah
+<p align="center">
+  <b>Hi 👋, I'm Jeremiah Anku Coblah</b>
+</p>
