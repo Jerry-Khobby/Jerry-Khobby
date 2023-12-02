@@ -25,7 +25,7 @@
 </p>
 
 
-##Languages and Tools:
+## Languages and Tools:
 ![image](https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/8148edfa-93d4-4fca-8bba-fa38f8934acd)
 
 
