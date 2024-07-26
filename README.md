@@ -1,5 +1,5 @@
 <p align="center">
-  <h6>Hi 👋, I'm Jeremiah Anku Coblah</h6>
+  <h2 text="center">Hi 👋, I'm Jeremiah Anku Coblah</h6>
 </p>
 
 <p align="center">
