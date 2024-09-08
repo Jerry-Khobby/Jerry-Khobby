@@ -22,11 +22,18 @@
   <a href="https://www.facebook.com/jerry.mardeburg">
     <img src="https://img.icons8.com/fluent/40/000000/facebook-new.png" alt="Facebook" style="margin: 0 10px;" />
   </a>
-  <a href="https://discord.com/channels/@me">
-    <img src="https://img.icons8.com/color/40/000000/discord-logo.png" alt="Discord" style="margin: 0 10px;" />
-  </a>
 </p>
 
+
+## GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jerry-Khobby&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerry-Khobby&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 ## Languages and Tools:
