@@ -22,7 +22,7 @@
 <a href="https://www.facebook.com/jerry.mardeburg">
   <img src="https://img.icons8.com/fluent/40/000000/facebook-new.png" alt="Facebook" style="margin: 0 10px;" />
 </a>
-<a href="https://discord.com/your-discord-profile-link">
+<a href="https://discord.com/https://discord.com/channels/jerry_96525">
   <img src="https://img.icons8.com/color/40/000000/discord-logo.png" alt="Discord" style="margin: 0 10px;" />
 </a>
 
