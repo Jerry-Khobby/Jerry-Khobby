@@ -61,15 +61,13 @@
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/30ec91d0-1d39-49e4-9bf3-2c9e6aea36e7" alt="Icon 9" width="40" style="margin: 0 10px;" />
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/f449b308-32ff-4fb5-9f04-82b7f8bf6d6f" alt="Icon 10" width="40" style="margin: 0 10px;" />
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" style="margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" style="margin: 0 10px;" />
 
 
 
 
   <!-- Machine Learning & Data Science icons -->
-  <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning" width="40" style="margin: 0 10px;" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-data-science-data-science-flat-flat-juicy-fish.png" alt="Data Science" width="40" style="margin: 0 10px;" />  
+
 </p>
 
 
