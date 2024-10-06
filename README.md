@@ -46,7 +46,11 @@
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/8148edfa-93d4-4fca-8bba-fa38f8934acd" alt="Material-UI" width="40" style="margin: 0 10px;" />
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/b67a4937-1257-4951-8843-c69509e7c1ee" alt="Tailwind CSS" width="40" style="margin: 0 10px;" />
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/c473dd2a-9815-49aa-845f-00c800f9fd3a" alt="Express.js" width="40" style="margin: 0 10px;" />
-  <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/7d72390d-b3d6-4ec3-88dc-61a6421e6fdb" alt="Icon 1" width="40" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" style="margin: 0 10px;" />
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" style="margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" style="margin: 0 10px;" />
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/f5570f61-64ae-4d0a-b7cc-81f16343edd8" alt="Icon 2" width="40" style="margin: 0 10px;" />
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/c544f78c-ac8d-4d14-8c02-4965e1696f07" alt="Icon 3" width="40" style="margin: 0 10px;" />
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/e5d9fd23-a6d0-4c60-afd4-5a965fe256df" alt="Icon 4" width="40" style="margin: 0 10px;" />
@@ -56,10 +60,8 @@
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/5e2c2dc1-3b74-407e-80be-e0ab95aa88a8" alt="Icon 8" width="40" style="margin: 0 10px;" />
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/30ec91d0-1d39-49e4-9bf3-2c9e6aea36e7" alt="Icon 9" width="40" style="margin: 0 10px;" />
   <img src="https://github.com/Jerry-Khobby/Jerry-Khobby/assets/106972178/f449b308-32ff-4fb5-9f04-82b7f8bf6d6f" alt="Icon 10" width="40" style="margin: 0 10px;" />
-  <img src="https://pictogrammers.com/library/mdi/icon/material-ui/" alt="Material-UI" width="40" style="margin: 0 10px;" />
-  <img src="https://pictogrammers.com/library/mdi/icon/react/" alt="React.js" width="40" style="margin: 0 10px;" />
-<img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" style="margin: 0 10px;" />
 </p>
+
 
 
 ## Most Used Languages:
