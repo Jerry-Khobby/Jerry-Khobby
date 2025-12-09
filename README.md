@@ -82,8 +82,8 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jerry-Khobby&theme=radical&row=1&column=5" alt="Trophies" />
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Jerry-Khobby)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
+
 
 
 
