@@ -33,7 +33,7 @@
 ## GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jerry-Khobby&show_icons=true&theme=radical" alt="GitHub Stats" />
+[![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry-Khobby)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
