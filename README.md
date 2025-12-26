@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 text="center" fontWeight:500>Hi 👋, I'm Jeremiah Anku Coblah</h6>
+  <h1 text="center" fontWeight:500>Hi 👋, I'm Jeremiah Anku Coblah</h1>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 
 ## GitHub Stats:
-[![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry-Khobby)](https://github.com/Jerry-Khobby/github-readme-stats)
+![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry-Khobby&show_icons=true&theme=radical)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jerry-Khobby&theme=radical" alt="GitHub Streak" />
@@ -70,15 +70,12 @@
 
 
 ## Most Used Languages:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Khobby&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Khobby&layout=compact&theme=radical)
 
 
 ## Trophies & Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jerry-Khobby&theme=radical&row=1&column=5" alt="Trophies" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jerry-Khobby&theme=radical&row=1&column=6)
 
 
 
