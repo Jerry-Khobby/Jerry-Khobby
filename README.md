@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>A passionate web and software developer</b>
+  <b>A passionate Software and Data Engineer</b>
 </p>
 
 - 🌱 I'm currently learning machine learning and data science
