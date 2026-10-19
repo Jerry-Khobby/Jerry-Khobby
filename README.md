@@ -216,16 +216,6 @@ A drawing app where several people work on the same canvas at once and see each 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 
----
-
-## 🧠 How I work
-
-- **Correct data first.** I add validation and quality checks before data is stored, not after someone notices a wrong number on a dashboard.
-- **Design for failure.** Retries, idempotent loads and clear error states, so a failed run can be rerun safely without duplicates.
-- **Measure, don't guess.** I use `EXPLAIN`, timings and logs to find what's actually slow before changing anything.
-- **Never show data you didn't retrieve.** APIs should return a clear error rather than stale or made-up results.
-- **Leave it maintainable.** Clean commits, documentation and tests, so the next person can pick up the work easily.
-- **Communicate early.** I raise blockers and trade-offs as soon as I find them, rather than at the deadline.
 
 ---
 
