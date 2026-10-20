@@ -25,13 +25,6 @@ My work sits where software engineering and data engineering meet. On the data s
 What I enjoy most is making systems **reliable**. A pipeline that quietly loads wrong data is worse than one that fails loudly, so I build in validation, quality checks and clear error handling from the start. I like finding out *why* something is slow or broken by measuring it, rather than guessing, and I try to leave code documented and tested so the next engineer can work with it easily.
 
 
-**Right now I'm:**
-- 🔧 Building event-driven data pipelines on AWS with Glue, Step Functions, EventBridge and Terraform
-- 📊 Going deeper into data modelling: star schemas, incremental loads, idempotent pipelines and data quality testing
-- 🤖 Exploring the data layer behind AI systems: feature pipelines, evaluation data and model serving
-- 🌍 Interested in fintech and healthcare data in Africa, where accuracy and reliability really matter
-
----
 
 ## 🛠️ What I do
 
